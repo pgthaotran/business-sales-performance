@@ -20,3 +20,6 @@ A Power BI dashboard analyzing business sales performance based on orders, custo
 1. Download the `.pbix` file
 2. Open it with Power BI Desktop
 3. If needed, reconnect the data source to the `data/raw/` folder
+
+## 📸 Screenshots
+![Dashboard Overview](screenshots/overview.png)
